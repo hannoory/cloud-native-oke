@@ -1,2 +1,2 @@
-var version = "hannoory 1.1";
+var version = "hannoory 1.2";
 exports.version = version;
